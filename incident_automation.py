@@ -3,6 +3,8 @@ import pandas as pd
 # Replace 'your_excel_file.xlsx' with the path to your Excel file
 e1 = "C:\Workspace\demo_incident\incident.xlsx"
 e2 = "C:\Workspace\demo_incident\incident(1).xlsx"
+e3 = "C:\Workspace\demo_incident\incident.xlsx"
+e4 = "C:\Workspace\demo_incident\incident(1).xlsx"
 
 # Load the Excel file into a Pandas DataFrame
 d1 = pd.read_excel(e1)
